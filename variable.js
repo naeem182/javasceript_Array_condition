@@ -31,3 +31,5 @@ var issilngle = true;
 
 // remainder : vagses: %
 console.log(sunglassprice.toFixed(2))
+//print
+console.log("hello world")
